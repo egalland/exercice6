@@ -1,0 +1,45 @@
+
+p{
+  height: 40px;
+  float: left;
+  margin: 0;
+}
+
+.une{
+  background-color: SpringGreen;
+  width: 85%;
+}
+.deux{
+  background-color: Magenta;
+  width: 15%;
+}
+.trois{
+  background-color: Pink;
+  width: 40%;
+  height: 80px
+}
+.quatre{
+  background-color: Orange;
+  width: 30%;
+}
+.cinq{
+  background-color: Blue;
+  width: 30%;
+}
+.six{
+  background-color: Yellow;
+  width: 20%;
+}
+.sept{
+  background-color: Grey;
+  width: 20%;
+}
+.huit{
+  background-color: Red;
+  width: 20%;
+}
+.neuf{
+  background-color: Teal;
+  width: 100%;
+  height: 100px;
+}
