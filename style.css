@@ -6,40 +6,40 @@ p{
 }
 
 .une{
-  background-color: SpringGreen;
+  background-color: #2ECC71;
   width: 85%;
 }
 .deux{
-  background-color: Magenta;
+  background-color: #95A5A6;
   width: 15%;
 }
 .trois{
-  background-color: Pink;
+  background-color: #E74C3C;
   width: 40%;
   height: 80px
 }
 .quatre{
-  background-color: Orange;
+  background-color: #E67E22;
   width: 30%;
 }
 .cinq{
-  background-color: Blue;
+  background-color: #95A5A6;
   width: 30%;
 }
 .six{
-  background-color: Yellow;
+  background-color: #2C3E50;
   width: 20%;
 }
 .sept{
-  background-color: Grey;
+  background-color: #16A085;
   width: 20%;
 }
 .huit{
-  background-color: Red;
+  background-color: #D35400;
   width: 20%;
 }
 .neuf{
-  background-color: Teal;
+  background-color: #2C3E50;
   width: 100%;
   height: 100px;
 }
